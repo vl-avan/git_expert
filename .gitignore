@@ -1,0 +1,7 @@
+#ignored folders
+.idea/
+out/
+
+#ignored files
+ignored_file.txt
+
